@@ -1,0 +1,5 @@
+C:\Users\Adriana\Source\repos\EvaluacionDevSinergia\Dominio.MiniMarket\bin\Debug\Dominio.MiniMarket.dll
+C:\Users\Adriana\Source\repos\EvaluacionDevSinergia\Dominio.MiniMarket\bin\Debug\Dominio.MiniMarket.pdb
+C:\Users\Adriana\Source\repos\EvaluacionDevSinergia\Dominio.MiniMarket\obj\Debug\Dominio.MiniMarket.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Source\repos\EvaluacionDevSinergia\Dominio.MiniMarket\obj\Debug\Dominio.MiniMarket.dll
+C:\Users\Adriana\Source\repos\EvaluacionDevSinergia\Dominio.MiniMarket\obj\Debug\Dominio.MiniMarket.pdb
